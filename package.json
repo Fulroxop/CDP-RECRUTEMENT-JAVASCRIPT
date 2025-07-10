@@ -1,0 +1,12 @@
+{
+  "name": "tech-test-adeo",
+  "version": "1.0.0",
+  "main": "src/cli/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/cli/index.js"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
